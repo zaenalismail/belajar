@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Mahmud zehan
+                    Mahmudsadsadsadsa dsad
                 </div>
 
                 <div class="links">
