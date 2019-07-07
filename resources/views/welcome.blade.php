@@ -81,11 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-<<<<<<< HEAD
                     Mahmudsadsadsadsa dsad
-=======
-                    Zidan bangsat
->>>>>>> 718990f4e363d2bacf34e4867d9bbef4bc0d5ce6
                 </div>
 
                 <div class="links">
